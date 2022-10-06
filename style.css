@@ -29,7 +29,7 @@ section {
 }
 
 section.alternate-background {
-  background-color: #9225109c;
+  background-color: #00a699;
   color: #fff;
 }
 
@@ -67,8 +67,8 @@ main img {
 /* -------  Navigation ------- */
 
 header {
-  background-color: #9225109c;
-  padding: 30px 30px 0 20px;
+  background-color: #ff385c;
+  padding: 20px 20px 0 20px;
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ header {
   display: flex;
   font-family: "Pangolin", cursive;
   font-size: 64px;
-  color: #a9a9a9;
+  color: #fff;
   justify-content: center;
 }
 
@@ -91,13 +91,13 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #000000;
+  color: #fff;
   padding: 0 20px 0 0;
   text-decoration: none;
 }
 
 header nav ul li a:hover {
-  color: #baab4b;
+  color: #bdbdbd;
   text-decoration: underline;
 }
 
@@ -107,7 +107,7 @@ form {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border: 2px solid #baab4b;
+  border: 2px solid #ff385c;
   padding: 10px;
 }
 
@@ -122,7 +122,7 @@ form button:hover {
 }
 
 form button {
-  background-color: #baab4b;
+  background-color: #ff385c;
   border: none;
   color: #fff;
   font-size: 24px;
@@ -138,11 +138,11 @@ form button {
 /* -------  Footer ------- */
 
 footer {
-  background-color: #1d1c1c;
+  background-color: #ff385c;
 }
 
 footer p {
-  color: #7A7978;
+  color: #00a699;
   text-align: center;
   padding: 20px;
 }
@@ -160,7 +160,7 @@ footer p {
   }
   
   .logo {
-    font-size: 38px;
+    font-size: 48px;
     padding-left: 5px;
   }
 
